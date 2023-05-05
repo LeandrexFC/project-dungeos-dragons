@@ -19,6 +19,7 @@ abstract class Race {
     throw new Error('Not implemented');
   }
 
+  // o metodo abstract de maxlife obriga as classes filhas a utilizarem ele, se nao usar da erro de compilação.
   public abstract get maxLifePoints(): number;
 }
 
