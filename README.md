@@ -1,13 +1,14 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1>Dungeons And Dragons</h1>
+The Dungeons And Dragons project is a role-playing game (RPG) system developed by applying the principles of SOLID architecture and object-oriented programming (OOP). The project focuses on designing and implementing a robust RPG structure that adheres to SOLID principles and effectively utilizes OOP concepts.<br>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<h2>Project Overview</h2>
+The main objectives of the Dungeons And Dragons project are as follows:<br>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+- Develop a role-playing game (RPG) system.<br>
+- Apply the principles of SOLID architecture.<br>
+- Utilize object-oriented programming (OOP) concepts.<br>
+- Design and implement a robust RPG structure.<br>
+
+<h3>Contributors</h3> 
+I created the src folder and all its contents.<br> 
+Trybe - Provided the remaining files and resources for the project.
